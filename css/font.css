@@ -1,0 +1,68 @@
+/* SUITE */
+@font-face {
+    font-family: 'SUITE';
+    src: url('../fonts/SUITE-Bold.woff2') format("woff2"),
+         url('../fonts/SUITE-Bold.woff') format("woff"),
+         url('../fonts/SUITE-Bold.ttf') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SUITE';
+    src: url('../fonts/SUITE-Light.woff2') format("woff2"),
+         url('../fonts/SUITE-Light.woff') format("woff"),
+         url('../fonts/SUITE-Light.ttf') format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+/* Pretendard */
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../fonts/Pretendard-SemiBold.woff2') format("woff2"),
+         url('../fonts/Pretendard-SemiBold.woff') format("woff"),
+         url('../fonts/Pretendard-SemiBold.otf') format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../fonts/Pretendard-Regular.woff2') format("woff2"),
+         url('../fonts/Pretendard-Regular.woff') format("woff"),
+         url('../fonts/Pretendard-Regular.otf') format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../fonts/Pretendard-Thin.woff2') format("woff2"),
+         url('../fonts/Pretendard-Thin.woff') format("woff"),
+         url('../fonts/Pretendard-Thin.otf') format("opentype");
+    font-weight: 200;
+    font-style: normal;
+}
+/* Mulish */
+@font-face {
+    font-family: 'Mulish';
+    src: url('../fonts/Mulish-Bold.woff2') format("woff2"),
+         url('../fonts/Mulish-Bold.woff') format("woff"),
+         url('../fonts/Mulish-Bold.ttf') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+/* Montserrat */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.woff2') format("woff2"),
+         url('../fonts/Montserrat-Regular.woff') format("woff"),
+         url('../fonts/Montserrat-Regular.ttf') format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Thin.woff2') format("woff2"),
+         url('../fonts/Montserrat-Thin.woff') format("woff"),
+         url('../fonts/Montserrat-Thin.ttf') format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
